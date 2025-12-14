@@ -1,0 +1,7 @@
+{
+  "name": "DigiVerify Assistant",
+  "description": "Voice-driven identity verification assistant using Gemini Live API.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
